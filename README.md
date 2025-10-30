@@ -1,1 +1,1 @@
-# End to End RNN project: IMDB movie review analysis project
+# End to End RNN project: IMDB movie review Sentiment analysis project
